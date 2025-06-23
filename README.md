@@ -1,4 +1,4 @@
-# 📊 Projects
+# 📊 EDA Projects
 
 ## 1. 🛍️ Online Retail – EDA Project
 **Notebook:** [`online_retail.ipynb`](./online_retail.ipynb)  
